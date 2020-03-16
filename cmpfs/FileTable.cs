@@ -6,10 +6,8 @@ using System.Threading.Tasks;
 
 namespace cmpfs
 {
-    class Program
+    public class FileTable
     {
-        static void Main(string[] args)
-        {
-        }
+
     }
 }
